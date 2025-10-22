@@ -9,4 +9,6 @@
 
 **El USB tipo c:** se usa para conector dispositivos como mobiles, discos duros, etc. Tiene sus ventajas al ser reversible y es muy rapido.
 **USB azules y rojos:** Los colores no importan mucho solo indican la version que son, estos USB se usan para periféricos que requieren alta velocidad como discos externos, pendrives rápidos, etc.
+
+## USB 2.0
 ![Foto USB](img/USB2.0.png)
