@@ -8,7 +8,19 @@
 ![Foto USB](img/USB3.2.png)
 
 **El USB tipo c:** se usa para conector dispositivos como mobiles, discos duros, etc. Tiene sus ventajas al ser reversible y es muy rapido.
+
 **USB azules y rojos:** Los colores no importan mucho solo indican la version que son, estos USB se usan para periféricos que requieren alta velocidad como discos externos, pendrives rápidos, etc.
 
 ## USB 2.0
 ![Foto USB](img/USB2.0.png)
+
+Los USB 2.0 se Usan para conectar periféricos básicos como un ratón, teclado, impresora, etc. Esto es ideal para dispositivos que no necesitan mucha velocidad.
+
+## Ethernet
+![Foto ethernet](img/Ethernet.png)
+
+Los puertos de ethernet son bastante basicos, es para conectar el cable de Ethernet RJ-45 y sirve para poder conectoar el PC a internet y va mucho mas rapido que el wifi y tambien es mas estable.
+
+## Audio Ports
+![Foto Audio Ports](img/Audio.png)
+
