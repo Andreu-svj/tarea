@@ -24,3 +24,7 @@ Los puertos de ethernet son bastante basicos, es para conectar el cable de Ether
 ## Audio Ports
 ![Foto Audio Ports](img/Audio.png)
 
+ Su uso es conectar altavoces, micrófonos y auriculares. Los colores mas comunes son el Verde: Salida de audio, el Rosa: Entrada de micrófono y el Azul: Entrada de línea.
+
+ ## HDMI
+ ![Foto HDMI](img/HDMI.png)
