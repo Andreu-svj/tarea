@@ -35,3 +35,13 @@ El uso del HDMI es conectar pantallas o televisores. Las ventajas serian que con
 ![Foto DisplayPorts](img/DisplayPort.png)
 
 Se Usa para conectar monitores modernos, se dice que es mejor que HDMI hablando de PCs. Este si que tiene mas ventajas, soporta mayores tasas de refresco y resoluciones asi puedes difrutar de una mejor experiencia i que se refresque mas rapido.
+
+## PS2
+![Foto PS2](img/PS2.png)
+
+Este ya no tiene mucho uso, ya que sirve para conectar teclados o ratones antiguos. Y tiene algunas ventaja, es útil si estás instalando el sistema y los puertos USB aún no funcionan.
+
+## Optical
+![Foto Optical](img/Optical.png)
+
+Este sirve para sistemas de sonido o amplificadores. Si te gusta escuchar musica, tiene una gran ventaja, te da sonido de alta calidad y sin interferencias.
