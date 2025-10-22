@@ -32,6 +32,6 @@ Los puertos de ethernet son bastante basicos, es para conectar el cable de Ether
 El uso del HDMI es conectar pantallas o televisores. Las ventajas serian que con un solo cable se puede transmitir imagen y sonido sin problema.
 
 ## DisplayPorts
-![Foto DisplayPorts](img/DisplayPorts.png)
+![Foto DisplayPorts](img/DisplayPort.png)
 
 Se Usa para conectar monitores modernos, se dice que es mejor que HDMI hablando de PCs. Este si que tiene mas ventajas, soporta mayores tasas de refresco y resoluciones asi puedes difrutar de una mejor experiencia i que se refresque mas rapido.
